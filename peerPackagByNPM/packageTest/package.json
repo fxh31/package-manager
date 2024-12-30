@@ -1,0 +1,22 @@
+{
+  "name": "packagetest",
+  "version": "1.0.0",
+  "description": "",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "<= 14"
+  },
+  "dependencies": {
+    "lodash": "4.16"
+  },
+  "peerDependencies": {
+    "axios": "1.6"
+  }
+}

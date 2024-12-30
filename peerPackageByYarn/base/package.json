@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "packageTest": "file:packageTest-1.0.4.tgz"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "packageTest",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "asynckit": "^0.4.0"
+  },
+  "peerDependencies": {
+    "lodash": "3"
+  }
+}
